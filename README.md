@@ -1,4 +1,4 @@
-# karlsefni
+# karlsefni (OFFLINE)
 # Karlsefni – Discord Bot (Java)
 
 Karlsefni is a Discord bot written in Java that provides basic utility and moderation commands for a Discord server.  
@@ -33,4 +33,5 @@ It also helped in understanding how moderation and utility features are implemen
 - Enhancing error handling  
 
 ---
+i have removed the deployment because i wanted to add more commands and features into it and i couldnt give more time into it because of my academics, since this is a personal project i worked on. i will get back with this after learning more.
 

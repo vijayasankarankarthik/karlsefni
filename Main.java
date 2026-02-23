@@ -3,7 +3,7 @@ import net.dv8tion.jda.api.JDABuilder;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        JDA jda = JDABuilder.createDefault("Bot_token") //i have removed the bot deployment.
+        JDA jda = JDABuilder.createDefault("") //i have removed the bot deployment.
                 .addEventListeners(new CommandListener())
                 .build();
     }
